@@ -1,0 +1,11 @@
+.App {
+  background-color: #dcd7c2;
+  width: 100vw;
+  height: 100vw;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 5%
+
+}
+
